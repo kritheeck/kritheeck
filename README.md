@@ -1,7 +1,8 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-# 💫 About Me:
+# 💫 ABOUT ME:
+
 🔭 I'm currently working on DevOps automation, cloud infrastructure, and data analytics pipelines<br>👯 I'm looking to collaborate on Kubernetes projects, ETL systems, and real-time data processing solutions<br>🤝 I'm looking for help with advanced Terraform configurations and distributed data systems<br>🌱 I'm currently learning containerization best practices, CI/CD optimization, and cloud-native architectures<br>💬 Ask me about Docker, Kubernetes, AWS, Terraform, Python, Data Analytics, or DevOps engineering<br>⚡ Fun fact: I optimize infrastructure like cricket strategy - every component matters for winning performance!
 
 
