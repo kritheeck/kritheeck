@@ -13,13 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kritheeck&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kritheeck&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritheeck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://raw.githubusercontent.com/kritheeck/kritheeck/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kritheeck&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
