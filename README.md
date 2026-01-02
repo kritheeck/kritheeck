@@ -13,11 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=kritheeck&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kritheeck&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritheeck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kritheeck/kritheeck/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritheeck/kritheeck/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kritheeck/kritheeck/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/kritheeck/kritheeck/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 ###
